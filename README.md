@@ -1,2 +1,3 @@
 # rpi-scripts
-rpi-scripts
+
+Various RPi scripts.
